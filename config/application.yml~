@@ -3,8 +3,8 @@
 # This file should be listed in .gitignore to keep your settings secret!
 # Each entry sets a local environment variable and overrides ENV variables in the Unix shell.
 GMAIL_USERNAME: koblenski
-GMAIL_PASSWORD: 4.Middle.Earth
+GMAIL_PASSWORD: '4.Middle.Earth'
 MAILCHIMP_API_KEY:
 MAILCHIMP_LIST_ID:
-DOMAIN_NAME: gmail.com
-OWNER_EMAIL: koblenski@gmail.com
+DOMAIN_NAME: 'gmail.com'
+OWNER_EMAIL: 'koblenski@gmail.com'
